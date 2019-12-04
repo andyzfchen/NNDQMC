@@ -1,0 +1,17 @@
+n: 8
+g: 1
+w: 0.5
+beta: 4.5
+total time: 289728
+warmup sweeps: 80000
+avg sweeps: 80000
+lcountmax: 3
+averaged error: 4.53162021768456e-12
+global acceptance prob0.352707356770833
+local acceptance prob0.0527690625
+SO= 0.696236692944654
+SCDW= 6.66359861026085
+SCDW2= 82.1104752425439
+LSCDW0= 82.1104752425439
+maxlag: 1
+1
